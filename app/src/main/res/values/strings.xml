@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">10119237APIPublik</string>
+    <string-array name="array_name">
+        <item>Chris Hemsworth</item>
+        <item>Natalie Portman</item>
+        <item>Christian Bale</item>
+        <item>Taika Waititi</item>
+        <item>Tessa Thompson</item>
+        <item>Jaimie Alexander</item>
+    </string-array>
+</resources>
