@@ -20,10 +20,13 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-//    Tanggal Pengerjaan : 5 - 14 Juli 2022
-//    NIM : 10119213
-//    Nama : Tri Tafriyadi
-//    Kelas : IF6
+/*
+Developed by AriszaZufarFathurrahman
+NIM : 10119237
+Nama : Arisza Zufar Fathurrahman
+Kelas : IF-6
+on Tuesday, July 12 2022
+*/
 
 public class MainActivity extends AppCompatActivity {
 

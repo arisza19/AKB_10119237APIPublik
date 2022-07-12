@@ -10,6 +10,14 @@ import retrofit2.http.Header;
 import retrofit2.http.Headers;
 import retrofit2.http.Query;
 
+/*
+Developed by AriszaZufarFathurrahman
+NIM : 10119237
+Nama : Arisza Zufar Fathurrahman
+Kelas : IF-6
+on Tuesday, July 12 2022
+*/
+
 public interface ApiService {
     @Headers(
             "X-RapidAPI-Host: celebrity-by-api-ninjas.p.rapidapi.com"
